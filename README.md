@@ -7,6 +7,6 @@ Eu sou a Thaís
 - 👩 Pronomes: Ela/Dela.
 <div>
 <a href="https://github.com/francathais">
-<img height="140cm" src="https://github-readme-stats.vercel.app/api?username=francathais&show_icons=true&theme=dracula&include_all_commits-true&count_private=true"/>
-<img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francathais&layout=compact&langs_count=16&theme=dracula"/>
+<img height="145cm" src="https://github-readme-stats.vercel.app/api?username=francathais&show_icons=true&theme=dracula&include_all_commits-true&count_private=true"/>
+<img height="145cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francathais&layout=compact&langs_count=16&theme=dracula"/>
 </div>
