@@ -1,12 +1,11 @@
 
 Eu sou a Thaís
 
-- 🎓 Estudo Ciência de dados e sou mestranda em Saúde Pública 
+- 🎓 Information Technology — IT. Estudo Ciência da Computação e sou mestranda em Saúde Pública 
 - 📊 Aprendendo big data para Machine Learning e Deep Learning
 - 📧 Email: thaisfrancadarocha@usp.br
 - 💻 Medium: https://medium.com/@francethais
 - ✅ Linkedin: https://www.linkedin.com/in/thaisfrancadarocha1/
-- 👩 Pronomes: Ela/Dela.
 <div>
 <a href="https://github.com/francathais">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=francathais&show_icons=true&theme=dracula&include_all_commits-true&count_private=true"/>
