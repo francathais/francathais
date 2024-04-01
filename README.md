@@ -1,7 +1,8 @@
 
 Eu sou a Thaís
 
-- 🎓 Information Technology — IT. Estudo Ciência da Computação e sou mestranda em Saúde Pública 
+- 👩🏽‍💻 Senior Analytics
+- 🎓 Especialista em Data Science pela PUC e graduanda pela FIAP | Graduada e Mestre em Ciências pela USP
 - 📊 Aprendendo big data para Machine Learning e Deep Learning
 - 📧 Email: thaisfrancadarocha@usp.br
 - 💻 Medium: https://medium.com/@francethais
