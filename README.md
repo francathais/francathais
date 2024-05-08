@@ -1,10 +1,7 @@
 
-Eu sou a Thaís
+Sou uma profissional de Analytics com foco em análise de dados de negócios de saúde, financeiro e relacionamento com clientes, desde a modelagem até a construção de dashboards e relatórios de inteligência. 
 
 - 👩🏽‍💻 Senior Analytics
-- 🎓 Especialista em Data Science pela PUC e graduanda pela FIAP | Graduada e Mestre em Ciências pela USP
-- 📊 Aprendendo big data para Machine Learning e Deep Learning
-- 📧 Email: thaisfrancadarocha@usp.br
 - 💻 Medium: https://medium.com/@francethais
 - ✅ Linkedin: https://www.linkedin.com/in/thaisfrancadarocha1/
 <div>
