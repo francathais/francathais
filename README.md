@@ -24,5 +24,6 @@ Sou uma profissional de Analytics com foco em análise de dados de negócios de 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="center" height="30" width="40" src="https://camo.githubusercontent.com/9688937d30e2bfcccbf0c4d4402b79cc06c873ba93f596c225b7aa4bb18bca8d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f7363696b69746c6561726e2f7363696b69746c6561726e2d6f726967696e616c2e737667"/>
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+
 </div>
